@@ -3,12 +3,12 @@ package java_calculator;
 import java.util.Random;
 import java.util.Scanner;
 
-	/**
-	 * Example Application: calculator
-	 * 
-	 * @author Felipe Fong
-	 * 
-	 */
+/**
+ * Example Application: calculator
+ * 
+ * @author Felipe Fong
+ * 
+ */
 public class Calculator {
 
 	public static void main(String[] args) {
