@@ -26,4 +26,11 @@ Example Application: calculator
 		System.out.println(String.format("Square Root of %.2f = %.2f", x, Math.sqrt(x)));
 
 ## Some links for more in depth learning
-* [JAVA PRINTF](https://github.com/fefong/java_printf);
+* [JAVA PRINT](https://github.com/fefong/java_print);
+
+## Some links for more in depth learning
+
+* [JAVA PRINT](https://github.com/fefong/java_print);
+* [JAVA SWITCH CASE](https://github.com/fefong/java_switch);
+* [JAVA IF/ELSE](https://github.com/fefong/java_ifElse);
+* [JAVA ARITHMETIC](https://github.com/fefong/java_calculator);
