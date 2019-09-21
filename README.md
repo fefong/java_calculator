@@ -56,8 +56,6 @@ Example Application: calculator
 	Math.sqrt(x)
 	System.out.println(String.format("Square Root of %.2f = %.2f", x, Math.sqrt(x)));
 ```
-## Some links for more in depth learning
-* [JAVA PRINT](https://github.com/fefong/java_print);
 
 ## Some links for more in depth learning
 
