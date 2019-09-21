@@ -1,28 +1,28 @@
 # Java Simple Calculator
 Example Application: calculator
 
-		// Sum
+## Sum
 		System.out.println(String.format("%.2f + %.2f = %.2f", x, y, x + y));
 
-		// Subtraction
+## Subtraction
 		System.out.println(String.format("%.2f - %.2f = %.2f", x, y, x - y));
 
-		// Multiplication
+## Multiplication
 		System.out.println(String.format("%.2f * %.2f = %.2f", x, y, x * y));
 
-		// Division
+## Division
 		System.out.println(String.format("%.2f / %.2f = %.2f", x, y, x / y));
 
-		// GET PI
+## GET PI
 		System.out.println("PI: " + Math.PI);
 
-		// Exponent
+## Exponent
 		System.out.println(String.format("%.2f ^ %.2f = %.2f", x, y, Math.pow(x, y)));
 		
-		// Random
+## Random
 		System.out.println("Random Number: "+ new Random().nextInt(10));
 	
-		// Square Root of x
+## Square Root of x
 		System.out.println(String.format("Square Root of %.2f = %.2f", x, Math.sqrt(x)));
 
 ## Some links for more in depth learning
