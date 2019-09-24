@@ -5,6 +5,10 @@ Example Application: calculator
 
 ```java
 	x + y
+```
+
+Example
+```java
 	System.out.println(String.format("%.2f + %.2f = %.2f", x, y, x + y));
 ```
 
@@ -12,6 +16,10 @@ Example Application: calculator
 
 ```java
 	x - y
+```
+
+Example
+```java
 	System.out.println(String.format("%.2f - %.2f = %.2f", x, y, x - y));
 ```
 
@@ -19,6 +27,10 @@ Example Application: calculator
 
 ```java
 	x * y
+```
+
+Example
+```java
 	System.out.println(String.format("%.2f * %.2f = %.2f", x, y, x * y));
 ```
 
@@ -26,6 +38,10 @@ Example Application: calculator
 
 ```java
 	x / y
+```
+
+Example
+```java
 	System.out.println(String.format("%.2f / %.2f = %.2f", x, y, x / y));
 ````
 
@@ -33,6 +49,10 @@ Example Application: calculator
 
 ```java
 	Math.PI
+```
+
+Example
+```java
 	System.out.println("PI: " + Math.PI);
 ```
 
@@ -40,13 +60,26 @@ Example Application: calculator
 
 ```java
 	Math.pow(x, y)
+```
+
+Example
+```java
 	System.out.println(String.format("%.2f ^ %.2f = %.2f", x, y, Math.pow(x, y)));
 ```
 
 ## Random
 
+Generate random integers in a range.
+
 ```java
-	new Random().nextInt(10)
+	new Random().nextInt(x) 
+```
+
+Example
+	
+Random integer in a range between min: 0 (inclusive) and max:10 (inclusive).
+
+```java
 	System.out.println("Random Number: "+ new Random().nextInt(10));
 ```
 
@@ -54,6 +87,10 @@ Example Application: calculator
 
 ```java
 	Math.sqrt(x)
+```
+
+Example	
+```java
 	System.out.println(String.format("Square Root of %.2f = %.2f", x, Math.sqrt(x)));
 ```
 
