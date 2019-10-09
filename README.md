@@ -3,7 +3,7 @@ Example Application: calculator
 
 * [Java Simple Calculator](#Java-Simple-Calculator)
     * [Sum](#sum)
-    * [Subtraction](#Subtration)
+    * [Subtraction](#Subtraction)
 	* [Multiplication](#Multiplication)
 	* [Division](#Division)
 	* [PI](#GET-PI)
